@@ -29,7 +29,7 @@ const Navbar = () => (
             </Link>
           </li>
           <li className="nav-item">
-            <Link legacyBehavior href="/autentificaion">
+            <Link legacyBehavior href="/autentificacion">
             <a className="nav-link" >Login</a>
             </Link>
           </li>
